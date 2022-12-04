@@ -1,0 +1,5 @@
+.lineGraph>canvas {
+    margin-top: 20px;
+    width: 100% !important;
+    height: 200px !important;
+}
